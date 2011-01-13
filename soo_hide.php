@@ -1,6 +1,6 @@
 <?php
 $plugin['name'] = 'soo_hide';
-$plugin['version'] = '0.1';
+$plugin['version'] = '0.1.0';
 $plugin['author'] = 'Jeff Soo';
 $plugin['author_uri'] = 'http://ipsedixit.net/';
 $plugin['description'] = 'Replacement for txp:hide';
@@ -74,9 +74,18 @@ Drop-in replacement for the core " @hide@ ":http://textpattern.net/wiki/index.ph
 
 To force the tag to hide its contents even when in Testing or Debugging mode, set the tag's @force@ attribute to @1@.
 
+h2(#usage). Usage
+
+pre.. <txp:soo_hide>
+	This will run when the site is in Debugging or Testing mode 
+	(in Testing mode it will be enclosed in HTML comments).
+</txp:hide>
+
+<txp:soo_hide force="1">Your secret is safe with me.</txp:soo_hide>
+
 h2(#history). Version History
 
-h3. 0.1 (2011/01/13)
+h3. 0.1.0 (2011/01/13)
 
 * Initial release. 
 * Behavior based on site production status.
