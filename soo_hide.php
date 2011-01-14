@@ -79,7 +79,7 @@ h2(#usage). Usage
 pre.. <txp:soo_hide>
 	This will run when the site is in Debugging or Testing mode 
 	(in Testing mode it will be enclosed in HTML comments).
-</txp:hide>
+</txp:soo_hide>
 
 <txp:soo_hide force="1">Your secret is safe with me.</txp:soo_hide>
 
