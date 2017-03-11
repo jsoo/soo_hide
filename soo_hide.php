@@ -1,5 +1,5 @@
 <?php
-$plugin['version'] = '0.1.2';
+$plugin['version'] = '0.1.3';
 $plugin['author'] = 'Jeff Soo';
 $plugin['author_uri'] = 'http://ipsedixit.net/';
 $plugin['description'] = 'Replacement for txp:hide';
@@ -18,6 +18,13 @@ if (! defined('txpinterface')) {
     @include_once($compiler_cfg['path']);
 }
 # --- BEGIN PLUGIN CODE ---
+
+// Register public tags.
+if (class_exists('\Textpattern\Tag\Registry')) {
+    Txp::get('\Textpattern\Tag\Registry')
+        ->register('soo_hide')
+        ;
+}
 
 function soo_hide ($atts, $thing)
 {

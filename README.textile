@@ -24,6 +24,10 @@ pre.. <txp:soo_hide>
 
 h2(#history). History
 
+h4. 0.1.3 (2017-03-11)
+
+* Oops. Tag registration restored.
+
 h3. 0.1.2 (2017-03-11)
 
 * Documentation tidy (and new compile workflow)
