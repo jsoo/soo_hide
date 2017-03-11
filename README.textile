@@ -1,0 +1,39 @@
+h1. soo_hide
+
+This is a plugin for "Textpattern":http://textpattern.com/. It is a drop-in replacement for the native @hide@ tag, with different output depending on site production status:
+
+* *Live*: hide tag contents
+* *Testing*: output tag contents, enclosed by HTML comment delimiters
+* *Debugging*: display tag contents
+
+To force the tag to hide its contents even when in Testing or Debugging mode, set the tag's @force@ attribute to @1@.
+
+h2. Download
+
+* *Homepage:* "http://ipsedixit.net/txp/128/soo_hide":http://ipsedixit.net/txp/128/soo_hide
+* *GitHub:* "https://github.com/jsoo/soo_hide/releases":https://github.com/jsoo/soo_hide/releases
+
+h2(#usage). Usage
+
+pre.. <txp:soo_hide>
+	This will run when the site is in Debugging or Testing mode 
+	(in Testing mode it will be enclosed in HTML comments).
+</txp:soo_hide>
+
+<txp:soo_hide force="1">Your secret is safe with me.</txp:soo_hide>
+
+h2(#history). History
+
+h3. 0.1.2 (2017-03-11)
+
+* Documentation tidy (and new compile workflow)
+
+h3. 0.1.1 (2017-03-11)
+
+* Textpattern 4.6 compatibility update
+
+h3. 0.1.0 (2011-01-13)
+
+* Initial release. 
+* Behaviour based on site production status.
+* Override test/debug behaviour with @force@ attribute.

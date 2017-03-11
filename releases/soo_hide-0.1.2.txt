@@ -1,0 +1,32 @@
+# soo_hide v0.1.2
+# Replacement for txp:hide
+# Jeff Soo
+# http://ipsedixit.net/
+
+# ......................................................................
+# This is a plugin for Textpattern - http://textpattern.com/
+# To install: textpattern > admin > plugins
+# Paste the following text into the 'Install plugin' box:
+# ......................................................................
+
+H4sIAAAAAAAAE+1XS2/jNhA+x79iVg1iG4j1cjbJyoqAFgGaLbYo0KaHngxaGllsZVElqThG
+kP/eISX5kXgXe+jRRhCTnPd8Hzkwi4IgelHRTeQ8oVRcVM5MRR8jx3cDNzTr68hhjS6ENJvb
+yPkF8xz+EMJsA78XzhvJzUkYRE6hdR15Hq8VZvyZa7dC7Vl1EmaoUslr3UUKryLnd6xLluIK
+Kw25kKCf66jgGRo5ifWmpiWPfOOBMmNlKdbzQq/KeYFlbURBq1mxFXZZKiHmez5aRbK/NjnE
+RZD0CrFHm8EgrpPHgiugPwZ12Sx5ZXOJGRQS87u+KI3PumZao6zcVKw8J3ncncQeS1z4rFsv
+mRT1hNzIt+UVCBXT/AkhTkWGSZuGXYJmy0tYc11AxvMcpTESja4bDRnWWGW8WoKoQHGNUEuR
+NalpJSjNdKOi2KtNMU2ZDM7ikiex0lJUy+QLRYu9bhOBiWhCQSoqTSFU7JHyockjKk3B9qy6
+PPbtLgGrtBQENCw2EKuaVZCWTKk7J2W1cpKHx1+/kAs6T8hoZZuQYclXlL88FvYeF81yeRg4
+44pauDmSceyZUi16wjQ3Rdteo6hFWybXamsE+IQVrAv6R8B0FQJhso0KK4LhEhTq3tHFD7dh
+cDNTHVg2SI8WwS75oiEoKForDzqZ20FRhMm9WFelYBlRLTyKzoNYYc2WGG1rfse7w8tEN8QL
+wltvy/Lku9QMP4+0/GeuH5rF14IrcrskQjYLS/i/ydnWoSexRKZQtQl8l+ouiR68IgSe3TmN
+ohY4yZ/mq29VLTG5KPXMPAm9p4ulng3O7G1d87IE2XSQGsDsvTD3uNrDlADusTbwDs5Ge+ib
+EyJJ62uBO0KTjmFvT1s1dgcmFe9dLoO3GbZMvLv4txF6FrRfRvMv0UiiVirRPhGK5dje9RW6
+R10Th6gBuxZRzVrIDV2rdtG3qZgm9r2GUegHNxN/OgmCMQmnB3S7F2ljKmH2xdA828CIVRlU
+uDZF1rykdIT8J6f3dfwGojZA8O0Ae08hXLnX1ikFW/CS6w00dcY0HvXrW7/BxA8mwfS9388V
+15wR0i2F3D0O/4QFe+KmrwtmQPvq07hv9BuNOmmfQOKAlxmeEPK9I4vIty67u1dDN1+MhllO
+/U+RM8ibqgvdE2J0Ttb0Wp7rgjg3HrwMgD7ULslSPSp/JOGISck2Iyswn6ENPoS7BPxLezom
+e+NmPCbOmYNlKRbUlvNdsfO22JkV8xxGH+Dc+hmDorrSgjJ5pz2Gl23UlLoIQ9uSYUQN1w1h
+WTOpcNTlPnujq9t7tNMexh8mExi6B1buECaTZNgav7bp9/p0+jro5rYZ1HPJ1qdhfRrWp2F9
+GtanYX0a1v/rsJ5Gzir7aFdh5ORheB1mbHqDV9ObPP1E+3Dq+36OKVuwlH4Av/4H+rrq5CIP
+AAA=
