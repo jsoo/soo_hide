@@ -4,13 +4,7 @@ $plugin['author'] = 'Jeff Soo';
 $plugin['author_uri'] = 'http://ipsedixit.net/';
 $plugin['description'] = 'Replacement for txp:hide';
 $plugin['type'] = 0; 
-
-// Allow raw HTML help, as opposed to Textile.
-// 0 = Plugin help is in Textile format, no raw HTML allowed (default).
-// 1 = Plugin help is in raw HTML.  Not recommended.
 $plugin['allow_html_help'] = 1;
-
-defined('txpinterface') or @include_once('zem_tpl.php');
 
 if (! defined('txpinterface')) {
     global $compiler_cfg;
